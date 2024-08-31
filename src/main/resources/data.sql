@@ -1,0 +1,1 @@
+insert into student(roll_num,name,marks) values (1,'A',10),(2,'B',20),(3,'C',30);
