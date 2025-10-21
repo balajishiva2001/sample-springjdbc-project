@@ -25,26 +25,31 @@ A simple Java application demonstrating the use of Spring JDBC Template for data
 1️⃣ **Clone the Repository**
 
 Open your terminal or Git Bash and run:
-
+```bash
 git clone https://github.com/balajishiva2001/sample-springjdbc-project.git  
 cd sample-springjdbc-project
+```
 
+---
 2️⃣ **Build the Project**
 
 Use Maven to build the project:
-
+```bash
 mvn clean install
+```
 
+---
 3️⃣ **Run the Application**
 
 Execute the application:
-
+```bash
 mvn exec:java
+```
 
 ---
 
 ## 📂 Project Structure
-
+```
 sample-springjdbc-project/  
 ├── src/  
 │   └── main/  
@@ -57,6 +62,7 @@ sample-springjdbc-project/
 ├── mvnw.cmd  
 ├── pom.xml  
 └── README.md  
+```
 
 ---
 
